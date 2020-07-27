@@ -12,4 +12,4 @@ pandas>=0.19
 nltk>= 3.4
 python>=3.8.5
 fuzzywuzzy==0.18.0
-json=1.0
+json==1.0
